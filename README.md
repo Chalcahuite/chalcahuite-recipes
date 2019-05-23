@@ -1,3 +1,3 @@
 # chalcahuite-recipes
 
-Testing autopkg recipes
+Public autopkg recipes
